@@ -2,7 +2,7 @@
 description: Short-term options trading platform
 ---
 
-# Introducing Buffer Finance
+# Introducing Buffer Finance 
 
 Buffer Finance is a decentralized exotic options trading platform offering defined-risk and fast-paced trading over crypto and non-crypto markets (like forex, commodities, and indices).&#x20;
 
