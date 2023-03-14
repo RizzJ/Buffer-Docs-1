@@ -16,7 +16,10 @@ Buffer protocol can also be used by players who want to play for fun and win rew
 
 **Quick Links**
 
-For traders: Buffer for traders; How to place trades; How to play tournaments, Protocol mechanism (Traders)
+For traders: 
+- Buffer for traders 
+- How to place trades
+- How to play tournaments, Protocol mechanism (Traders)
 
 For liqudity providers:&#x20;
 
