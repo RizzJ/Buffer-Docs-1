@@ -7,7 +7,7 @@
 * [Introducing Buffer Finance](README.md)
 * [Buffer For Traders](introduction/buffer-for-traders.md)
 * [Buffer For LPs](introduction/buffer-for-lps.md)
-* [Buffer Prime Club (NFTs)](introduction/buffer-prime-club-nfts.md)
+* [The Optopi Collection](introduction/the-optopi-collection.md)
 
 ## Quick Start Guides
 
