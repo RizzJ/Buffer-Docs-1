@@ -1,7 +1,5 @@
 <img width="1440" alt="Screenshot 2023-03-09 at 5 30 52 PM" src="https://user-images.githubusercontent.com/126849045/224017218-865586cb-58fb-4819-bdf9-e370daae46a2.png">
 
-# Introducing Buffer Finance
-
 ## Short-term options trading platform
 
 Buffer Finance is a non-custodial exotic options trading platform offering defined-risk and fast-paced trading over crypto and non-crypto markets (like forex, commodities, and indices).&#x20;
