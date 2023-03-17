@@ -8,7 +8,7 @@ Steps to purchase BFR can be found on the "Quick start guides" page.
 
 ## BY depositing BFR tokens in the [vault](https://app.buffer.finance/#/earn), stakers will start earning staking rewards paid continuously as:
 
-- USDC: up to 30% of the protocol revenue generated is sent to $BFR stakers;
+- USDC: up to 40% of the protocol revenue generated is sent to $BFR stakers;
 
 - esBFR: Can be claimed and vested or compounded for more rewards, similar to BFR token staking;
 
